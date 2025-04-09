@@ -1,6 +1,7 @@
 # Discord Görev Yönetim Botu
 
 Bu bot, Discord sunucularında görev yönetimi için kullanılan bir araçtır. Küçük ekipler için görev ekleme, silme, görüntüleme ve tamamlama işlemlerini kolaylaştırır.
+![image](https://github.com/user-attachments/assets/776cce1b-84e6-4baa-ace7-355fa25f146e)
 
 ## Özellikler
 
